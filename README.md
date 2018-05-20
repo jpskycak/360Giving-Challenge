@@ -1,4 +1,27 @@
-## Welcome to GitHub Pages
+## Explore Grant Themes
+
+COMMUNITY: ALL, elderly, heritage, maintenance, religious, residential, transportation, youth
+
+EDUCATION: ALL, k-12, university/college, workshop
+
+EMPLOYMENT: ALL
+
+EQUIPMENT: ALL
+
+EVENT: ALL, commemorative, converence, cultural, travel
+
+HEALTH: ALL, mental health, physical health
+
+ORGANIZATION TYPE: ALL, business, charity, group, individual, trust/estate
+
+RECREATION: ALL, arts, athletics, volunteer
+
+SCIENCE/TECHNOLOGY: ALL, computing, life science, social science, sustainability
+
+SOCIAL SUPPORT: ALL, disability, equality/inclusion, social work, welfare
+
+VETERANS: ALL
+
 
 You can use the [editor on GitHub](https://github.com/jpskycak/360Giving-Challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

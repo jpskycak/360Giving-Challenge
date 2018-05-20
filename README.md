@@ -1,4 +1,4 @@
-## Explore Grant Themes
+## Explore Grant Themess
 
 COMMUNITY: ALL, elderly, heritage, maintenance, religious, residential, transportation, youth
 

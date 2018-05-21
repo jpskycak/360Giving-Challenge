@@ -1,16 +1,16 @@
 *Click on a theme to view its funding over time.*
 
-### <font size="2">COMMUNITY</font><font size="2" color="black"> | ALL, elderly, heritage, maintenance, religious, residential, transportation, youth</font>
-### <font size="2">EDUCATION</font><font size="2" color="black"> | ALL, k-12, university/college, workshop</font>
-### <font size="2">EMPLOYMENT</font><font size="2" color="black"> | ALL</font>
-### <font size="2">EQUIPMENT</font><font size="2" color="black"> | ALL</font>
-### <font size="2">EVENT</font><font size="2" color="black"> | ALL, commemorative, converence, cultural, travel</font>
-### <font size="2">HEALTH</font><font size="2" color="black"> | ALL, mental health, physical health</font>
-### <font size="2">ORGANIZATION TYPE</font><font size="2" color="black"> | ALL, business, charity, group, individual, trust/estate</font>
-### <font size="2">RECREATION</font><font size="2" color="black"> | ALL, arts, athletics, volunteer</font>
-### <font size="2">SCIENCE/TECHNOLOGY</font><font size="2" color="black"> | ALL, computing, life science, social science, sustainability</font>
-### <font size="2">SOCIAL SUPPORT</font><font size="2" color="black"> | ALL, disability, equality/inclusion, social work, welfare</font>
-### <font size="2">VETERANS</font><font size="2" color="black"> | ALL</font>
+### <font size="2">COMMUNITY</font><font size="2" color="black"><font size="2" color="black"> | elderly, heritage, maintenance, religious, residential, transportation, youth</font>
+### <font size="2">EDUCATION</font><font size="2" color="black"><font size="2" color="black"> | k-12, university/college, workshop</font>
+### <font size="2">EMPLOYMENT</font><font size="2" color="black">
+### <font size="2">EQUIPMENT</font><font size="2" color="black">
+### <font size="2">EVENT</font><font size="2" color="black"><font size="2" color="black"> | commemorative, converence, cultural, travel</font>
+### <font size="2">HEALTH</font><font size="2" color="black"><font size="2" color="black"> | mental health, physical health</font>
+### <font size="2">ORGANIZATION TYPE</font><font size="2" color="black"><font size="2" color="black"> | business, charity, group, individual, trust/estate</font>
+### <font size="2">RECREATION</font><font size="2" color="black"><font size="2" color="black"> | arts, athletics, volunteer</font>
+### <font size="2">SCIENCE/TECHNOLOGY</font><font size="2" color="black"><font size="2" color="black"> | computing, life science, social science, sustainability</font>
+### <font size="2">SOCIAL SUPPORT</font><font size="2" color="black"><font size="2" color="black"> | disability, equality/inclusion, social work, welfare</font>
+### <font size="2">VETERANS</font><font size="2" color="black">
 
 
 You can use the [editor on GitHub](https://github.com/jpskycak/360Giving-Challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

@@ -1,16 +1,16 @@
 *Click on a theme to view its funding over time.*
 
-#### COMMUNITY<font size="2" color="black"> | ALL, elderly, heritage, maintenance, religious, residential, transportation, youth</font>
-#### EDUCATION<font size="2" color="black"> | ALL, k-12, university/college, workshop</font>
-#### EMPLOYMENT<font size="2" color="black"> | ALL</font>
-#### EQUIPMENT<font size="2" color="black"> | ALL</font>
-#### EVENT<font size="2" color="black"> | ALL, commemorative, converence, cultural, travel</font>
-### HEALTH<font size="2" color="black"> | ALL, mental health, physical health</font>
-### ORGANIZATION TYPE<font size="2" color="black"> | ALL, business, charity, group, individual, trust/estate</font>
-### RECREATION<font size="2" color="black"> | ALL, arts, athletics, volunteer</font>
-### SCIENCE/TECHNOLOGY<font size="2" color="black"> | ALL, computing, life science, social science, sustainability</font>
-### SOCIAL SUPPORT<font size="2" color="black"> | ALL, disability, equality/inclusion, social work, welfare</font>
-### VETERANS<font size="2" color="black"> | ALL</font>
+### <font size="2">COMMUNITY</font><font size="2" color="black"> | ALL, elderly, heritage, maintenance, religious, residential, transportation, youth</font>
+### <font size="2">EDUCATION</font><font size="2" color="black"> | ALL, k-12, university/college, workshop</font>
+### <font size="2">EMPLOYMENT</font><font size="2" color="black"> | ALL</font>
+### <font size="2">EQUIPMENT</font><font size="2" color="black"> | ALL</font>
+### <font size="2">EVENT</font><font size="2" color="black"> | ALL, commemorative, converence, cultural, travel</font>
+### <font size="2">HEALTH</font><font size="2" color="black"> | ALL, mental health, physical health</font>
+### <font size="2">ORGANIZATION TYPE</font><font size="2" color="black"> | ALL, business, charity, group, individual, trust/estate</font>
+### <font size="2">RECREATION</font><font size="2" color="black"> | ALL, arts, athletics, volunteer</font>
+### <font size="2">SCIENCE/TECHNOLOGY</font><font size="2" color="black"> | ALL, computing, life science, social science, sustainability</font>
+### <font size="2">SOCIAL SUPPORT</font><font size="2" color="black"> | ALL, disability, equality/inclusion, social work, welfare</font>
+### <font size="2">VETERANS</font><font size="2" color="black"> | ALL</font>
 
 
 You can use the [editor on GitHub](https://github.com/jpskycak/360Giving-Challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

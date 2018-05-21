@@ -1,9 +1,8 @@
 *Click on a theme to view its funding over time.*
 
-### COMMUNITY <font color="black">|</font> <font size="2" color="black">ALL, elderly, heritage, maintenance, religious, residential, transportation, youth</font>
+### COMMUNITY <font size="2" color="black">| ALL, elderly, heritage, maintenance, religious, residential, transportation, youth</font>
 
-### EDUCATION:
-> <font size="2">ALL | k-12, university/college, workshop</font>
+### EDUCATION <font size="2" color="black">| ALL, k-12, university/college, workshop</font>
 
 ### EMPLOYMENT: ALL
 

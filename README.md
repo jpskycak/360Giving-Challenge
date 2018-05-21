@@ -1,4 +1,4 @@
-###### COMMUNITY
+#### COMMUNITY
 > <font size="1">elderly, heritage, maintenance, religious, residential, transportation, youth</font>
 
 EDUCATION: ALL, k-12, university/college, workshop

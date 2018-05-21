@@ -2,7 +2,7 @@
     <style type="text/css">
        a:link {color: black;}      /* unvisited link */
        a:visited {color: black;}   /* visited link */
-       a:hover {color: black;}     /* mouse over link */
+       a:hover {color: blue;}     /* mouse over link */
        a:active {color: black;}    /* selected link */
     </style>
 </head>

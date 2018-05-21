@@ -1,9 +1,7 @@
 *Click on a theme to view its funding over time.*
 
-### COMMUNITY (all)
-> <font size="2">font 2: elderly, heritage, maintenance, religious, residential, transportation, youth</font>
-
-> <font size="3">font 3: elderly, heritage, maintenance, religious, residential, transportation, youth</font>
+### COMMUNITY
+> <font size="2">ALL | elderly, heritage, maintenance, religious, residential, transportation, youth</font>
 
 EDUCATION: ALL, k-12, university/college, workshop
 

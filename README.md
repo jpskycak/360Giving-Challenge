@@ -1,5 +1,4 @@
 COMMUNITY
-
 elderly, heritage, maintenance, religious, residential, transportation, youth
 
 EDUCATION: ALL, k-12, university/college, workshop

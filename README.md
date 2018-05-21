@@ -1,3 +1,11 @@
+<head>
+    <style type="text/css">
+       a:link {color: black;}      /* unvisited link */
+       a:visited {color: black;}   /* visited link */
+       a:hover {color: black;}     /* mouse over link */
+       a:active {color: black;}    /* selected link */
+    </style>
+</head>
 *Click on a theme to view its funding over time.*
 
 ### <font size="2"><a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community.html">COMMUNITY</a></font><font size="2" color="black"><font size="2" color="black"> | <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-elderly.html">elderly</a>, <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-heritage.html">heritage</a>, <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-maintenance.html">maintenance</a>, <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-religious.html">religious</a>, <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-residential.html">residential</a>, <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-transportation.html">transportation</a>, <a href="https://github.com/jpskycak/360Giving-Challenge/blob/master/community-youth.html">youth</a></font>

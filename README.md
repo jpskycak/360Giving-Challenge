@@ -1,4 +1,4 @@
-### 360Giving Challenge
+360Giving Challenge
 
 COMMUNITY: ALL, elderly, heritage, maintenance, religious, residential, transportation, youth
 

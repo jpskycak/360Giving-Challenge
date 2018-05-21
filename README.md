@@ -1,5 +1,5 @@
 #### COMMUNITY
-> <font size="1">elderly, heritage, maintenance, religious, residential, transportation, youth</font>
+> <font size="3">elderly, heritage, maintenance, religious, residential, transportation, youth</font>
 
 EDUCATION: ALL, k-12, university/college, workshop
 
@@ -36,6 +36,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 - Bulleted
 - List

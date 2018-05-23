@@ -7,7 +7,7 @@
     </style>
 </head>
 
-*Click on a theme to view its funding over time.*
+*Click on a theme to view its funding since 2000.*
 
 ### <font size="2"><a href="https://jpskycak.github.io/360Giving-Challenge/community.html">COMMUNITY</a></font><font size="2" color="black"><font size="2" color="black"> | <a href="https://jpskycak.github.io/360Giving-Challenge/community-elderly.html">elderly</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/community-heritage.html">heritage</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/community-maintenance.html">maintenance</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/community-religious.html">religious</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/community-residential.html">residential</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/community-transportation.html">transportation</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/community-youth.html">youth</a></font>
 ### <font size="2"><a href="https://jpskycak.github.io/360Giving-Challenge/education.html">EDUCATION</a></font><font size="2" color="black"><font size="2" color="black"> | <a href="https://jpskycak.github.io/360Giving-Challenge/education-k-12.html">k-12</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/education-universitycollege.html">university/college</a>, <a href="https://jpskycak.github.io/360Giving-Challenge/education-workshop.html">workshop</a></font>
